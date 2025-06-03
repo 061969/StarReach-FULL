@@ -1,0 +1,10 @@
+{
+  "name": "starreach",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "^6.3.5"
+  }
+}
